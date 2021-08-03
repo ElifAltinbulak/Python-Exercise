@@ -2,7 +2,7 @@
 while True :
     kullanıcı_adı=input("Kullanıcı Adınızı Giriniz : ")
     pw = input("Şifrenizi Giriniz : ")
-    if kullanıcı_adı=="Elif" and pw=="ab123":
+    if kullanıcı_adı=="Selam" and pw=="ab123":
         hesap = 10000
         while True :
             print("""Yapmak istediğiniz işlemleri giriniz :
