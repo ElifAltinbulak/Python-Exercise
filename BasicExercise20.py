@@ -1,5 +1,5 @@
 #day20
-#1 den kullanının girmiş olduğu sayıya kadar olan tek ve çift sayıya kadar olnam tek ve çift sayıların toplamını ayrı ayı bulan ve sonucu ekranda gözteren python örneği
+#1 den kullanıcının girmiş olduğu sayıya kadar olan tek ve çift sayıya kadar olan tek ve çift sayıların toplamını ayrı ayrı bulan ve sonucu ekranda gösteren python örneği
 sayı=int(input("sayı giriniz: "))
 çtoplam=0
 ttoplam=0
